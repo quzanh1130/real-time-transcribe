@@ -1,0 +1,15 @@
+body {
+    padding: 20px;
+}
+h1 {
+    margin-bottom: 20px;
+}
+.buttons {
+    margin-bottom: 20px;
+}
+.transcriptions {
+    max-height: 300px;
+    overflow-y: auto;
+    border: 1px solid #ddd;
+    padding: 10px;
+}

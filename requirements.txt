@@ -1,0 +1,9 @@
+faster_whisper
+fastapi
+fastapi-socketio
+websockets
+uvicorn
+eventlet
+pydub
+pyaudio
+torch
