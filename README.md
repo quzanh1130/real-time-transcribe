@@ -1,6 +1,6 @@
 # Real time Transcribe
 
-This project real time transcribe by record audio by mircro on backend device the text.
+This project is a real-time transcription system that records audio from a microphone on a backend device and converts it into text.
 
 ![Image](resource/cover.jpeg)
 
