@@ -2,7 +2,7 @@
 
 This project real time transcribe by record audio by mircro on backend device the text.
 
-![Image](resource/figure.png)
+![Image](resource/cover.jpeg)
 
 ## Features
 
