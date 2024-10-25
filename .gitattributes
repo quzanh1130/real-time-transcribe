@@ -1,0 +1,2 @@
+PhoWhisper-small-VietBud500/model.bin filter=lfs diff=lfs merge=lfs -text
+PhoWhisper-small-VietBud500 filter=lfs diff=lfs merge=lfs -text
